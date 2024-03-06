@@ -30,7 +30,7 @@
 
         // Fire off the request to /form.php
         request = $.ajax({
-            url: "https://www.capila.site/go/?order=dW7vZXMuheE1Em1SEpfFtNx3ispmsR",
+            url: "https://script.google.com/macros/s/AKfycbz2g2pl2g2oNjYCLWqpNgm4s-ClxTyqjsAx4majQFHkB6ci2fodMx1n7CFCNQ8BEn9e/exec",
             type: "post",
             data: serializedData
         });
